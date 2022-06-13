@@ -1,1 +1,2 @@
 Git Download: https://git-scm.com/downloads
+Markdown Guide sheet: https://www.markdownguide.org/cheat-sheet/
